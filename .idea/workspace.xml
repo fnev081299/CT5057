@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e355b7-055b-4187-904f-551342fe41d5" name="Default Changelist" comment="" />
+    <list default="true" id="c1e355b7-055b-4187-904f-551342fe41d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,9 @@
         <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y2Hi7WEFiShjF7YDawiDDKn5mw" />
   <component name="ProjectViewState">
@@ -81,7 +86,7 @@
       <recent name="$PROJECT_DIR$/src/UML" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR Application.Ct5057.jar">
+  <component name="RunManager">
     <configuration name="FlightList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FlightList" />
       <module name="Ct5057" />
@@ -130,22 +135,6 @@
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Ct5057_jar/Ct5057.jar" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.FlightList" />
-      <item itemvalue="Application.Passenger" />
-      <item itemvalue="JAR Application.Ct5057.jar" />
-      <item itemvalue="JUnit.All in Ct5057" />
-      <item itemvalue="JUnit.SchedulerTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FlightList" />
-        <item itemvalue="Application.Passenger" />
-        <item itemvalue="JUnit.SchedulerTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="showServicesTree" value="false" />
@@ -256,6 +245,7 @@
       <workItem from="1588331077782" duration="678000" />
       <workItem from="1588356636476" duration="319000" />
       <workItem from="1589052662213" duration="63000" />
+      <workItem from="1592401667973" duration="60000" />
     </task>
     <servers />
   </component>
